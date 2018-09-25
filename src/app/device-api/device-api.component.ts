@@ -10,6 +10,9 @@ export class DeviceApiComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+
+
+
   }
 
 }
